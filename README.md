@@ -8,9 +8,9 @@
 +   Learn the fundamentals of imperative programming
 +   Learn some Python applications
 
-## Textbook: 
-    + [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart.
-    +   [舊版中文版紙本](https://www.tenlong.com.tw/products/9789864762729)
+## Textbook 
++   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart.
++   [舊版中文版紙本](https://www.tenlong.com.tw/products/9789864762729)
 
 ## References
 +   Python 3 [Official Documents](https://docs.python.org/3/)
