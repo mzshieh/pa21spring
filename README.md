@@ -18,6 +18,10 @@
 +   [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 +	[Telegram Bot](https://telegram.org/)
 
+## Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/HyEQXm6G_)
+
 ## Past Lecture Notes
 
 + [Lecture 1](https://hackmd.io/s/rJ6hmNpUN)
@@ -30,14 +34,14 @@
 
 ## Python package installation
 
-To be updated:
-+ [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
-+ [Mac OS X](https://hackmd.io/s/S1WCZqluE)
+[Tutorial](https://hackmd.io/@yuchingtw/S17rgKqfO) by TA
 
 ## Term Poject
 
 1. Midterm: A game agent using `pyautogui` and `opencv`
-2. Final: A game using chatbot
+    + Candidate 1: [ONET CONNECTION CLASSIC](https://html5games.com/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35)
+        - Pass the first stage
+2. Final: A game using Telegram chatbot
 
 ## Grading Policy
 
