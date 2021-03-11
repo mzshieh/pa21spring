@@ -21,6 +21,7 @@
 ## Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@truckski/HyEQXm6G_)
++ [Lecture 2](https://hackmd.io/@truckski/BkEgP7IQ_)
 
 ## Past Lecture Notes
 
