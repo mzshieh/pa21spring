@@ -1,7 +1,9 @@
 # Introduction to Python Applications, 2021 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
++   Teaching Assistants: 
+    + [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
+    + [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
 
 ## Course Objectives
 
