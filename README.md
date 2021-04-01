@@ -43,7 +43,7 @@
 
 1. Midterm: A game agent using `pyautogui` and `opencv`
     + Candidate 1: [ONET CONNECTION CLASSIC](https://html5games.com/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35)
-        - Pass the first stage
+        - [Specification](https://hackmd.io/xpfE8ikzSES4fBQjM6zeBw)
 2. Final: A game using Telegram chatbot
 
 ## Grading Policy
