@@ -26,6 +26,7 @@
 + [Lecture 2](https://hackmd.io/@truckski/BkEgP7IQ_)
 + [Lecture 3](https://hackmd.io/@truckski/HkdMqaGSO)
 + [Lecture 4](https://hackmd.io/@truckski/SkBEZnPPO)
++ [Python Telegram Bot](https://hackmd.io/@yuchingtw/SJ1eDyVw_)
 
 ## Past Lecture Notes
 
