@@ -53,6 +53,8 @@ On [Google Drive](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtM
     + Candidate 1: [ONET CONNECTION CLASSIC](https://html5games.com/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35)
         - [Specification](https://hackmd.io/xpfE8ikzSES4fBQjM6zeBw)
 2. Final: A game using Telegram chatbot
+    + Candidate 1: Minesweeper
+        - [Specification](https://hackmd.io/MGIfqtWMQ2CM9kNJNY5dmQ)
 
 ## Grading Policy
 
