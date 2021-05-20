@@ -27,6 +27,11 @@
 + [Lecture 3](https://hackmd.io/@truckski/HkdMqaGSO)
 + [Lecture 4](https://hackmd.io/@truckski/SkBEZnPPO)
 + [Python Telegram Bot](https://hackmd.io/@yuchingtw/SJ1eDyVw_)
++ [Python Selenium Crawler](https://hackmd.io/@yuchingtw/BkUXN_v_u)
+
+## Online Lecture Material
+
+On [Google Drive](https://drive.google.com/drive/folders/1ghhUlDLR1ZeCdtDYB7TTtMsLBdu9hc1J?usp=sharing)
 
 ## Past Lecture Notes
 
