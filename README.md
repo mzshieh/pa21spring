@@ -28,6 +28,7 @@
 + [Lecture 4](https://hackmd.io/@truckski/SkBEZnPPO)
 + [Python Telegram Bot](https://hackmd.io/@yuchingtw/SJ1eDyVw_)
 + [Python Selenium Crawler](https://hackmd.io/@yuchingtw/BkUXN_v_u)
++ [Lecture ?](https://hackmd.io/@truckski/SkIz9uDjd)
 
 ## Online Lecture Material
 
